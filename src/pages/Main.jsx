@@ -30,7 +30,7 @@ const Main = () => {
           Search
         </button>
       </form>
-      <div className='flex, justify-center flex-wrap'>
+      <div className='flex justify-center flex-wrap'>
         {loading
           ?
           (<div>
