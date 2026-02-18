@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { AuthKontext } from '../context/AuthContext'
 import { Navigate, Outlet } from 'react-router-dom'
-import Login from '../pages/Login'
+
 
 const PrivateRouter = () => {
 

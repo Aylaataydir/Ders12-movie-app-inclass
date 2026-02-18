@@ -1,5 +1,4 @@
 import React from 'react'
-import Register from "../src/pages/Register"
 import { ToastContainer } from "react-toastify";
 import AuthContext from './context/AuthContext';
 import AppRouter from "./router/AppRouter"

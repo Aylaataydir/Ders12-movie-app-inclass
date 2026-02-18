@@ -37,7 +37,7 @@ const MovieContext = ({ children }) => {
   useEffect(() => {
     getMovies(BASE_URL)
 
-  }, [])
+  }, [BASE_URL])
 
 
 

@@ -24,7 +24,7 @@ const MovieDetail = () => {
 
     getMovie()
 
-  }, [])
+  }, [movie])
   
 
 
